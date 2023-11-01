@@ -53,7 +53,7 @@ const handleDeleteTodo = (todoId) => {
         />
         )}
     </div>
-  )
+  );
 };
 
 export default TodoList;

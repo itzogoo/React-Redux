@@ -25,7 +25,7 @@ todoId }) => {
             </div>
         </div>
 
-    );
+    )
 };
 
 TodoCard.propTypes = {
